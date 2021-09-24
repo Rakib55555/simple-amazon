@@ -1,0 +1,11 @@
+.cart-order{
+    text-align: center;
+}
+.cart-price{
+
+}
+.cart-total{
+    font-size: 23px;
+    font-weight: 700;
+    color: firebrick;
+}

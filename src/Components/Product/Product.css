@@ -3,7 +3,16 @@
     border-bottom: 1px solid lightgray;
     margin-right: 5px;
     font-weight: 450px;
+    padding-bottom: 10px;
 }
 .product-info{
     margin-left: 15px;
+}
+.add-cart-btn{
+    background-color: gold;
+    border: 1px solid lightgrey;
+    height: 30px;
+    width: 150px;
+    border-radius: 5px;
+    cursor: pointer;
 }
